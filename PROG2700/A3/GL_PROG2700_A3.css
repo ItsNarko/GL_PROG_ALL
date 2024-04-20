@@ -1,0 +1,13 @@
+#schedule td, #schedule th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.hidden {
+    display: none;
+}
